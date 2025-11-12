@@ -14,6 +14,3 @@ class Zayan:
     
     def tech_stack(self):
         return ["React", "Node.js", "Python", "AI/ML", "Cloud"]
-    
-    def current_focus(self):
-        return "Building Cortex AI SOC"
