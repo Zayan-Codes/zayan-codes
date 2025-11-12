@@ -1,7 +1,7 @@
-# ⚡ Zayan - The Code Alchemist
+# ⚡ Zayan - Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Code+Never+Lies;AI+Is+My+Weapon;Sleep+Is+For+The+Weak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+The+Future;Code+Is+My+Art;AI+Is+My+Weapon" />
 </p>
 
 ## 🚀 About Me
@@ -9,12 +9,11 @@
 class Zayan:
     def __init__(self):
         self.name = "Zayan"
-        self.title = "Full Stack Sorcerer"
-        self.specialty = "Turning Coffee Into Code ☕→💻"
-        self.challenge = "Bring It On!"
+        self.role = "Full Stack Developer"
+        self.passion = "AI & Web Solutions"
     
-    def skills(self):
-        return ["React", "Node.js", "Python", "AI/ML", "Zero BS"]
+    def tech_stack(self):
+        return ["React", "Node.js", "Python", "AI/ML", "Cloud"]
     
-    def say_hello(self):
-        return "I don't just write code, I craft digital empires"
+    def current_focus(self):
+        return "Building Cortex AI SOC"
