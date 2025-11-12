@@ -1,16 +1,20 @@
-## Hi there 👋
+# ⚡ Zayan - The Code Alchemist
 
-<!--
-**Zayan-Codes/zayan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Code+Never+Lies;AI+Is+My+Weapon;Sleep+Is+For+The+Weak" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+```python
+class Zayan:
+    def __init__(self):
+        self.name = "Zayan"
+        self.title = "Full Stack Sorcerer"
+        self.specialty = "Turning Coffee Into Code ☕→💻"
+        self.challenge = "Bring It On!"
+    
+    def skills(self):
+        return ["React", "Node.js", "Python", "AI/ML", "Zero BS"]
+    
+    def say_hello(self):
+        return "I don't just write code, I craft digital empires"
