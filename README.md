@@ -1,16 +1,16 @@
-# ⚡ Zayan - Full Stack Developer
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;React+Specialist;Problem+Solver;Code+Artisan" />
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Building+The+Future;Code+Is+My+Art;AI+Is+My+Weapon" />
-</p>
+<div align="center">
+  
+**🛠️ Tech Stack**  
+`React` `Next.js` `Node.js` `Python` `PostgreSQL`
 
-## 🚀 About Me
-```python
-class Zayan:
-    def __init__(self):
-        self.name = "Zayan"
-        self.role = "Full Stack Developer"
-        self.passion = "AI & Web Solutions"
-    
-    def tech_stack(self):
-        return ["React", "Node.js", "Python", "AI/ML", "Cloud"]
+**🌱 Currently Growing**  
+`System Design` `Cloud Architecture` `AI Integration`
+
+**🚀 Passionate About**  
+`Clean Code` `Scalable Solutions` `User Experience`
+
+</div>
